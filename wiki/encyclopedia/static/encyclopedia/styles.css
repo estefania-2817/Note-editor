@@ -1,0 +1,78 @@
+body {
+    margin: 0;
+    background-color: white;
+}
+
+code {
+    white-space: pre;
+}
+
+h1 {
+    margin-top: 0px;
+    padding-top: 20px;
+}
+
+textarea {
+    height: 90vh;
+    width: 80%;
+}
+
+.main {
+    padding: 10px;
+}
+
+.search {
+    width: 73%;
+    font-size: 12px;
+    line-height: 15px;
+}
+
+.searchButton {      /* i added */
+    padding: 0;
+    width: 43px;
+    font-size: 12px;
+}
+
+.sidebar {
+    background-color: #f0f0f0;
+    height: 100vh;
+    padding: 20px;
+}
+
+.sidebar h2 {
+    margin-top: 5px;
+}
+
+.hidden {
+    display: none;
+}
+
+.textArea {
+    width: 700px;
+    height: 500px;
+}
+
+.newPageTitle {
+    position: absolute;
+    top: 15%;
+    left: 1%;
+}
+.newPageContent {
+    width: 800px;
+    height: 300px;
+    position: absolute;
+    top: 22%;
+    left: 1%;
+}
+
+.newPageButton {
+    position: absolute;
+    top: 15%;
+    left: 760px;
+}
+
+.editButton {
+    position: absolute;
+    top: 8%;
+    left: 660px;
+}
